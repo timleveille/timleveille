@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @timleveille
+- 👀 I’m studying Electrical Engineering
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: timothy.leveille@unh.edu
